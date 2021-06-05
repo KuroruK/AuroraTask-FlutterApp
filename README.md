@@ -1,9 +1,9 @@
 # AuroraTask-FlutterApp
 
 #default username and passwords
-  username:root , password admin
-  username:user , password 1234
-  username:rr   , password pass
+  #username:root , password admin
+  #username:user , password 1234
+  #username:rr   , password pass
 
 
 #1.Login Page
