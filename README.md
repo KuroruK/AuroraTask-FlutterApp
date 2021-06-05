@@ -1,28 +1,28 @@
 # AuroraTask-FlutterApp
 
-#default username and passwords
-  #username:root , password admin
-  #username:user , password 1234
-  #username:rr   , password pass
+#default username and passwords<br/>
+  #username:root , password admin<br/>
+  #username:user , password 1234<br/>
+  #username:rr   , password pass<br/>
 
 
-#1.Login Page
-  -The login page needs to have the following
-  -Product logo (could be any random company logo in place of the face)
-  -Email input
-  -Password input
-  -Forget Password button (not functional)
-  -Login button
-  -Register button (not functional)
+#1.Login Page<br/>
+  -The login page needs to have the following<br/>
+  -Product logo (could be any random company logo in place of the face)<br/>
+  -Email input<br/>
+  -Password input<br/>
+  -Forget Password button (not functional)<br/>
+  -Login button<br/>
+  -Register button (not functional)<br/>
 
-#2.Register
-  -The register page needs to have the following
-  -Full name 
-  -Email
-  -Password
-  -Confirm password
-  -Submit button
+#2.Register<br/>
+  -The register page needs to have the following<br/>
+  -Full name <br/>
+  -Email<br/>
+  -Password<br/>
+  -Confirm password<br/>
+  -Submit button<br/>
 
-#3.Home Page -  as no example for home page given its just a simple one fulfilling requirements
-  -The main section displaying a message - “Login successful”
-  -A functioning logout button
+#3.Home Page -  as no example for home page given its just a simple one fulfilling requirements<br/>
+  -The main section displaying a message - “Login successful”<br/>
+  -A functioning logout button<br/>
